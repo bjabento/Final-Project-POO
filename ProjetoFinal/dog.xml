@@ -1,0 +1,208 @@
+<Modelo>
+	<NomeModelo>cubo.obj</NomeModelo>
+	<TotalVertices>8</TotalVertices>
+	<TotalArestas>18</TotalVertices>
+	<TotalFaces>12</TotalVertices>
+	<Vertices>
+		<Vertice>
+			<x>110</x>
+			<y>210</y>
+			<z>310</z>
+		<Vertice>
+		<Vertice>
+			<x>110</x>
+			<y>220</y>
+			<z>310</z>
+		<Vertice>
+		<Vertice>
+			<x>120</x>
+			<y>220</y>
+			<z>310</z>
+		<Vertice>
+		<Vertice>
+			<x>120</x>
+			<y>210</y>
+			<z>310</z>
+		<Vertice>
+		<Vertice>
+			<x>110</x>
+			<y>210</y>
+			<z>320</z>
+		<Vertice>
+		<Vertice>
+			<x>110</x>
+			<y>220</y>
+			<z>320</z>
+		<Vertice>
+		<Vertice>
+			<x>120</x>
+			<y>220</y>
+			<z>320</z>
+		<Vertice>
+		<Vertice>
+			<x>120</x>
+			<y>210</y>
+			<z>320</z>
+		<Vertice>
+	</Vertices>
+	<Arestas>
+		<Aresta>
+			<Vertice1>120, 210, 320</Vertice1>
+			<Vertice2>120, 210, 310</Vertice2>
+		</Aresta>
+		<Aresta>
+			<Vertice1>120, 210, 320</Vertice1>
+			<Vertice2>110, 210, 320</Vertice2>
+		</Aresta>
+		<Aresta>
+			<Vertice1>120, 210, 320</Vertice1>
+			<Vertice2>120, 220, 320</Vertice2>
+		</Aresta>
+		<Aresta>
+			<Vertice1>120, 210, 310</Vertice1>
+			<Vertice2>110, 210, 310</Vertice2>
+		</Aresta>
+		<Aresta>
+			<Vertice1>120, 210, 310</Vertice1>
+			<Vertice2>110, 210, 320</Vertice2>
+		</Aresta>
+		<Aresta>
+			<Vertice1>120, 210, 310</Vertice1>
+			<Vertice2>120, 220, 310</Vertice2>
+		</Aresta>
+		<Aresta>
+			<Vertice1>120, 210, 310</Vertice1>
+			<Vertice2>120, 220, 320</Vertice2>
+		</Aresta>
+		<Aresta>
+			<Vertice1>110, 210, 310</Vertice1>
+			<Vertice2>110, 210, 320</Vertice2>
+		</Aresta>
+		<Aresta>
+			<Vertice1>110, 210, 310</Vertice1>
+			<Vertice2>120, 220, 310</Vertice2>
+		</Aresta>
+		<Aresta>
+			<Vertice1>110, 210, 310</Vertice1>
+			<Vertice2>110, 220, 310</Vertice2>
+		</Aresta>
+		<Aresta>
+			<Vertice1>110, 210, 320</Vertice1>
+			<Vertice2>110, 220, 320</Vertice2>
+		</Aresta>
+		<Aresta>
+			<Vertice1>110, 210, 320</Vertice1>
+			<Vertice2>110, 220, 310</Vertice2>
+		</Aresta>
+		<Aresta>
+			<Vertice1>110, 210, 320</Vertice1>
+			<Vertice2>120, 220, 320</Vertice2>
+		</Aresta>
+		<Aresta>
+			<Vertice1>120, 220, 310</Vertice1>
+			<Vertice2>110, 220, 320</Vertice2>
+		</Aresta>
+		<Aresta>
+			<Vertice1>120, 220, 310</Vertice1>
+			<Vertice2>110, 220, 310</Vertice2>
+		</Aresta>
+		<Aresta>
+			<Vertice1>120, 220, 310</Vertice1>
+			<Vertice2>120, 220, 320</Vertice2>
+		</Aresta>
+		<Aresta>
+			<Vertice1>110, 220, 320</Vertice1>
+			<Vertice2>110, 220, 310</Vertice2>
+		</Aresta>
+		<Aresta>
+			<Vertice1>110, 220, 320</Vertice1>
+			<Vertice2>120, 220, 320</Vertice2>
+		</Aresta>
+	</Arestas>
+	<Faces>
+		<Face >
+			<FaceTriangular>
+				<Vertice1>110, 210, 310</Vertice1>
+				<Vertice2>110, 220, 310</Vertice2>
+				<Vertice3>120, 220, 310</Vertice3>
+			<FaceTriangular>
+		</Face>
+		<Face >
+			<FaceTriangular>
+				<Vertice1>110, 210, 310</Vertice1>
+				<Vertice2>120, 220, 310</Vertice2>
+				<Vertice3>120, 210, 310</Vertice3>
+			<FaceTriangular>
+		</Face>
+		<Face >
+			<FaceTriangular>
+				<Vertice1>110, 210, 320</Vertice1>
+				<Vertice2>110, 220, 320</Vertice2>
+				<Vertice3>120, 220, 320</Vertice3>
+			<FaceTriangular>
+		</Face>
+		<Face >
+			<FaceTriangular>
+				<Vertice1>110, 210, 320</Vertice1>
+				<Vertice2>120, 220, 320</Vertice2>
+				<Vertice3>120, 210, 320</Vertice3>
+			<FaceTriangular>
+		</Face>
+		<Face >
+			<FaceTriangular>
+				<Vertice1>110, 220, 310</Vertice1>
+				<Vertice2>120, 220, 310</Vertice2>
+				<Vertice3>110, 220, 320</Vertice3>
+			<FaceTriangular>
+		</Face>
+		<Face >
+			<FaceTriangular>
+				<Vertice1>120, 220, 310</Vertice1>
+				<Vertice2>110, 220, 320</Vertice2>
+				<Vertice3>120, 220, 320</Vertice3>
+			<FaceTriangular>
+		</Face>
+		<Face >
+			<FaceTriangular>
+				<Vertice1>110, 210, 310</Vertice1>
+				<Vertice2>120, 210, 310</Vertice2>
+				<Vertice3>110, 210, 320</Vertice3>
+			<FaceTriangular>
+		</Face>
+		<Face >
+			<FaceTriangular>
+				<Vertice1>120, 210, 310</Vertice1>
+				<Vertice2>110, 210, 320</Vertice2>
+				<Vertice3>120, 210, 320</Vertice3>
+			<FaceTriangular>
+		</Face>
+		<Face >
+			<FaceTriangular>
+				<Vertice1>110, 210, 310</Vertice1>
+				<Vertice2>110, 220, 310</Vertice2>
+				<Vertice3>110, 210, 320</Vertice3>
+			<FaceTriangular>
+		</Face>
+		<Face >
+			<FaceTriangular>
+				<Vertice1>110, 220, 310</Vertice1>
+				<Vertice2>110, 210, 320</Vertice2>
+				<Vertice3>110, 220, 320</Vertice3>
+			<FaceTriangular>
+		</Face>
+		<Face >
+			<FaceTriangular>
+				<Vertice1>120, 220, 310</Vertice1>
+				<Vertice2>120, 210, 310</Vertice2>
+				<Vertice3>120, 220, 320</Vertice3>
+			<FaceTriangular>
+		</Face>
+		<Face >
+			<FaceTriangular>
+				<Vertice1>120, 210, 310</Vertice1>
+				<Vertice2>120, 220, 320</Vertice2>
+				<Vertice3>120, 210, 320</Vertice3>
+			<FaceTriangular>
+		</Face>
+	</Faces>
+</Modelo>
